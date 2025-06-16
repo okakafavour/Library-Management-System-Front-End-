@@ -15,7 +15,7 @@ function register() {
 
 document.addEventListener("DOMContentLoaded", function () {
     const registerBtn = document.getElementById("registerSubmitBtn");
-    const loginBtn = document.querySelector('#login .submit'); // ✅ Move this outside
+    const loginBtn = document.querySelector('#login .submit');
 
     registerBtn.addEventListener("click", function (event) {
         event.preventDefault();
