@@ -42,23 +42,11 @@ body{
     font-weight: 600;
 }
 
-.nav-menu ul{
-    display: flex;
-}
-.nav-menu ul li{
-    list-style-type: none;
-}
-.nav-menu ul li .link{
-    text-decoration: none;
-    padding-bottom: 15px;
-    font-size: 20px;
+.nav-menu p{
     color: white;
+    font-size: 55px;
     font-weight: 600;
-    margin: 0 25px;
-}
-
-.link:hover, .active{
-    border-bottom: 2px solid blue;
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
 }
 
 .nav-button .btn{

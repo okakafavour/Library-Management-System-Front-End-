@@ -2,68 +2,37 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Home page</title>
+    <title>Library - View Books</title>
     <link rel="stylesheet" href="home.css">
 </head>
 <body>
-   <nav class="home-page">
-       <h2> Library System</h2>
-       <button onclick="logOut()">Logout</button>
-   </nav>
-    <div class="book-gallery">
-        <div class="book-card">
-            <img src="secondImage/book1.png" alt="Book 1">
-            <div class="book-info">
-                <h3> Gensome</h3>
-                <p>isbn: 12345678</p>
-                <p>Author: John Doe</p>
-            </div>
-        </div>
 
-        <div class="book-card">
-            <img src="secondImage/book2.png" alt="Book 2">
-            <div class="book-info">
-                <h3> Jack</h3>
-                <p>isbn: 213456</p>
-                <p>Author: wizzy stone</p>
-            </div>
-        </div>
-
-        <div class="book-card">
-            <img src="secondImage/book3.png" alt="Book 3">
-            <div class="book-info">
-                <h3> Clean code</h3>
-                <p>isbn: 12345678</p>
-                <p>Author: Bro's jay</p>
-            </div>
-        </div>
-
-        <div class="book-card">
-            <img src="secondImage/book4.jpeg" alt="Book 4">
-            <div class="book-info">
-                <h3> Coding</h3>
-                <p>isbn: 12345678</p>
-                <p>Author: stambic stone</p>
-            </div>
-        </div>
-
-        <div class="book-card">
-            <img src="secondImage/book5.png" alt="Book 5">
-            <div class="book-info">
-                <h3> Thinking Deep</h3>
-                <p>isbn: 78654</p>
-                <p>Author: Gadus kofo</p>
-            </div>
-        </div>
-
-        <div class="book-card">
-            <img src="secondImage/book6.png" alt="Book 6">
-            <div class="book-info">
-                <h3> Life In Another Realm</h3>
-                <p>isbn: 78654</p>
-                <p>Author: Banke James</p>
-            </div>
-        </div>
+<nav class="home-page">
+    <img src="secondImage/book2-logo.jpeg">
+    <div class="nav-menu">
+        <ul>
+            <li><a href="#" class="link active">Home</a></li>
+            <li><a href="AddBookPage.html" class="link">Add Book</a></li>
+            <li><a href="ViewBooks.html" class="link">View Book</a></li>
+            <li><a href="borrow Book.html" class="link">Borrow Book</a></li>
+            <li><a href="Return Book.html" class="link">Return Book</a></li>
+            <li><a href="#" class="link">View Borrowed Book History </a></li>
+        </ul>
     </div>
+    <button onclick="logOut()">Logout</button>
+</nav>
+
+<div class="search-section" style="text-align: center; margin: 20px;">
+    <input type="text" id="searchInput" placeholder="Search by title or author" style="padding: 8px; width: 250px;">
+    <button onclick="searchBooks()" style="padding: 8px 12px;">Search</button>
+</div>
+
+<div class="book-gallery" id="bookGallery">
+
+</div>
+
+
+<script src="home.js"></script>
+
 </body>
 </html>

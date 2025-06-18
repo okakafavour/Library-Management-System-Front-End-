@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dcc6d6e-e307-4574-abfc-d577d37dbe9d" name="Changes" comment="" />
+    <list default="true" id="8dcc6d6e-e307-4574-abfc-d577d37dbe9d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -65,7 +73,16 @@
       <workItem from="1749969547763" duration="30353000" />
       <workItem from="1750015325690" duration="5532000" />
       <workItem from="1750029957390" duration="11392000" />
-      <workItem from="1750045498862" duration="1057000" />
+      <workItem from="1750045498862" duration="2209000" />
+      <workItem from="1750063185416" duration="10475000" />
+      <workItem from="1750081406420" duration="4226000" />
+      <workItem from="1750132424061" duration="3176000" />
+      <workItem from="1750148176004" duration="3610000" />
+      <workItem from="1750153888495" duration="14435000" />
+      <workItem from="1750172390747" duration="4664000" />
+      <workItem from="1750180169128" duration="142000" />
+      <workItem from="1750195255118" duration="1594000" />
+      <workItem from="1750236035770" duration="2744000" />
     </task>
     <servers />
   </component>

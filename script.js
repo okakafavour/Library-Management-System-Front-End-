@@ -103,4 +103,26 @@ document.addEventListener("DOMContentLoaded", function () {
                 alert("Login failed.");
             });
     });
+
+    document.querySelectorAll(".link").forEach(link=>{
+        link.addEventListener("click", function(e){
+            e.preventDefault();
+            const text = link.innerText.trim();
+
+
+            if (text === "Add Book") {
+                document.querySelector(".form-box").style.display = "none";
+                document.getElementById("addBookForm").style.display = "block";
+                document.getElementById("viewBooks").style.display = "none";
+            }
+
+
+            if (text === "View Book") {
+                document.querySelector(".form-box").style.display = "none";
+                document.getElementById("addBookForm").style.display = "none";
+                document.getElementById("viewBooks").style.display = "block";
+                fetchBooks();
+            }
+        });
+    });
 });
