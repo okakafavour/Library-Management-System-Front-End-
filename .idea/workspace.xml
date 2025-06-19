@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dcc6d6e-e307-4574-abfc-d577d37dbe9d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/LibraryManagementApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LibraryManagementApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddBookPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddBookPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Return Book.html" beforeDir="false" afterPath="$PROJECT_DIR$/Return Book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ViewBooks.css" beforeDir="false" afterPath="$PROJECT_DIR$/ViewBooks.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ViewBooks.html" beforeDir="false" afterPath="$PROJECT_DIR$/ViewBooks.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addBook.css" beforeDir="false" afterPath="$PROJECT_DIR$/addBook.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addBook.js" beforeDir="false" afterPath="$PROJECT_DIR$/addBook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/borrow Book.html" beforeDir="false" afterPath="$PROJECT_DIR$/borrow Book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/borrowBook.css" beforeDir="false" afterPath="$PROJECT_DIR$/borrowBook.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/borrowedBook.js" beforeDir="false" afterPath="$PROJECT_DIR$/borrowedBook.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/viewBooks.js" beforeDir="false" afterPath="$PROJECT_DIR$/viewBooks.js" afterDir="false" />
-    </list>
+    <list default="true" id="8dcc6d6e-e307-4574-abfc-d577d37dbe9d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +88,7 @@
       <workItem from="1750326609886" duration="443000" />
       <workItem from="1750328751536" duration="1811000" />
       <workItem from="1750350355383" duration="596000" />
+      <workItem from="1750357463717" duration="340000" />
     </task>
     <servers />
   </component>
