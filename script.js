@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         const requestData = { fullName, email, password, phoneNumber };
 
-        fetch("http://localhost:9090/api/libraryMember/register", {
+        fetch("http://localhost:8080/api/libraryMember/register", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 if (data.message === "Registered successfully") {
                     alert("Registered successfully!");
 
-                    fetch("http://localhost:9090/api/libraryMember/login", {
+                    fetch("http://localhost:8080/api/libraryMember/login", {
                         method: "POST",
                         headers: {
                             "Content-Type": "application/json"
@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const email = emailInput.value;
         const password = passwordInput.value;
 
-        fetch("http://localhost:9090/api/libraryMember/login", {
+        fetch("http://localhost:8080/api/libraryMember/login", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"

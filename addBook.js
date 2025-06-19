@@ -9,7 +9,7 @@ document.getElementById("addBookForm").addEventListener("submit", function (e) {
         status: document.getElementById("status").value
     };
 
-    fetch("http://localhost:9090/api/liberian/add-books", {
+    fetch("http://localhost:8080/api/liberian/add-books", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"

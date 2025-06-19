@@ -5,12 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dcc6d6e-e307-4574-abfc-d577d37dbe9d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/LibraryManagementApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LibraryManagementApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddBookPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/AddBookPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Return Book.html" beforeDir="false" afterPath="$PROJECT_DIR$/Return Book.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewBooks.css" beforeDir="false" afterPath="$PROJECT_DIR$/ViewBooks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewBooks.html" beforeDir="false" afterPath="$PROJECT_DIR$/ViewBooks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addBook.css" beforeDir="false" afterPath="$PROJECT_DIR$/addBook.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addBook.js" beforeDir="false" afterPath="$PROJECT_DIR$/addBook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/borrow Book.html" beforeDir="false" afterPath="$PROJECT_DIR$/borrow Book.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/borrowBook.css" beforeDir="false" afterPath="$PROJECT_DIR$/borrowBook.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/borrowedBook.js" beforeDir="false" afterPath="$PROJECT_DIR$/borrowedBook.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewBooks.js" beforeDir="false" afterPath="$PROJECT_DIR$/viewBooks.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,14 +35,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -43,15 +61,17 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/okaka victoria/WebstormProjects/LibraryManagementApp&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/favour/Documents/LibraryManagementApp&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -62,6 +82,7 @@
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8dcc6d6e-e307-4574-abfc-d577d37dbe9d" name="Changes" comment="" />
@@ -83,6 +104,12 @@
       <workItem from="1750180169128" duration="142000" />
       <workItem from="1750195255118" duration="1594000" />
       <workItem from="1750236035770" duration="2744000" />
+      <workItem from="1750243000873" duration="486000" />
+      <workItem from="1750263418431" duration="948000" />
+      <workItem from="1750321490670" duration="787000" />
+      <workItem from="1750326609886" duration="443000" />
+      <workItem from="1750328751536" duration="1811000" />
+      <workItem from="1750350355383" duration="596000" />
     </task>
     <servers />
   </component>

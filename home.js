@@ -1,6 +1,6 @@
 
 function fetchBooks(){
-    fetch("http://localhost:9090/books")
+    fetch("http://localhost:8080/books")
         .then(function (response) {
             if(!response.ok)throw new Error("Failed to fetch book")
             return response.json();

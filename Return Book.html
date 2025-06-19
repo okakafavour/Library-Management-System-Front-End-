@@ -2,11 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> Return Book</title>
+    <title>Return Book</title>
     <link rel="stylesheet" href="ReturnBook.css">
 </head>
 <body>
 
+<div class="container">
 
+    <!-- Back to Home link styled as a button -->
+    <a href="home.html" class="back-button">← Back to Home</a>
+
+    <h2>Return Book</h2>
+    <form id="returnBookForm">
+        <label for="bookName">Book Name:</label>
+        <input type="text" id="bookName" name="bookName" required>
+
+        <label for="userId">User ID:</label>
+        <input type="text" id="userId" name="userId" required>
+
+        <label for="returnDate">Return Date:</label>
+        <input type="date" id="returnDate" name="returnDate" required>
+
+        <button type="submit">Return Book</button>
+    </form>
+    <div id="message"></div>
+</div>
+
+<script src="ReturnBook.js"></script>
 </body>
 </html>

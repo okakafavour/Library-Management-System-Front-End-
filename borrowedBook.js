@@ -11,7 +11,7 @@ document.getElementById("borrowBookForm").addEventListener("submit", function (e
         return;
     }
 
-    fetch(`http://localhost:9090/api/libraryMember/${userId}/borrow/title/${title}`, {
+    fetch(`http://localhost:8080/api/libraryMember/${userId}/borrow/title/${title}`, {
         method: "POST"
     })
         .then(async response => {

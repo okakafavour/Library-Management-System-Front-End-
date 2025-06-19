@@ -1,5 +1,5 @@
 window.onload = function () {
-    fetch("http://localhost:9090/api/liberian/view-books")
+    fetch("http://localhost:8080/api/liberian/view-books")
         .then(function (response) {
             if (!response.ok) {
                 throw new Error("Failed to load books");
